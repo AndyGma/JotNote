@@ -1,7 +1,5 @@
 package com.andygma.jotnote.BottomMenu
 
-import androidx.compose.material.BottomNavigation
-import androidx.compose.material.BottomNavigationDefaults
 import androidx.compose.material.BottomNavigationItem
 import androidx.compose.material.Icon
 import androidx.compose.material.Text
