@@ -12,6 +12,7 @@ import androidx.navigation.compose.rememberNavController
 import com.andygma.jotnote.BottomMenu.BottomNavigation
 import com.andygma.jotnote.baseactivity.MainRecipes
 
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -20,7 +21,6 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
 
 @SuppressLint("UnusedMaterialScaffoldPaddingParameter")
 @Composable

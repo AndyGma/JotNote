@@ -1,0 +1,10 @@
+<resources>
+    <string name="dayoftheweek1">Monday</string>
+    <string name="dayoftheweek2">Tuesday</string>
+    <string name="dayoftheweek3">Wednesday</string>
+    <string name="dayoftheweek4">Thursday</string>
+    <string name="dayoftheweek5">Friday</string>
+    <string name="dayoftheweek6">Saturday</string>
+    <string name="dayoftheweek7">Sunday</string>
+    <string name="label_dayoftheweek">Day of the week</string>
+</resources>

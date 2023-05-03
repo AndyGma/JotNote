@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">JotNote</string>
+    <string name="app_name" translatable="false">JotNote</string>
+    <string name="dayoftheweek1">Понедельник</string>
+    <string name="dayoftheweek2">Вторник</string>
+    <string name="dayoftheweek3">Среда</string>
+    <string name="dayoftheweek4">Четверг</string>
+    <string name="dayoftheweek5">Пятница</string>
+    <string name="dayoftheweek6">Суббота</string>
+    <string name="dayoftheweek7">Воскресенье</string>
+    <string name="label_dayoftheweek">День недели</string>
 </resources>
